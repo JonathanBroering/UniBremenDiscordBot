@@ -4,4 +4,4 @@
 More Documentation will follow soon™.
 
 ## Credits
-The `!food` command uses the inofficial [https://github.com/StevenKowalzik/Mensa-Bremen-API](Uni Bremen Mensa API) by [https://github.com/StevenKowalzik/](StevenKowalzik) and links to it's [https://mensabremen.de](Frontend).
+The `!food` command uses the inofficial [Uni Bremen Mensa API](https://github.com/StevenKowalzik/Mensa-Bremen-API) by [StevenKowalzik](https://github.com/StevenKowalzik/) that also has a frontend at [mensabremen.de](https://mensabremen.de).
